@@ -12,18 +12,16 @@ Note: All files are provided with an English version, denoted by the suffix _EN.
 
 This folder contains four Jupyter Notebooks that introduce the fundamental lab computational concepts within the course:
 
-    First Laboratory Session: Explore various Jupyter Notebook platforms and their setup procedures. Gain an understanding of basic calculations, text formatting, LaTeX usage, and simple plot creation.
-
-    Second Laboratory Session: This session focuses on scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
+First Laboratory Session: Explore various Jupyter Notebook platforms and their setup procedures. Gain an understanding of basic calculations, text formatting, LaTeX usage, and simple plot creation.
+Second Laboratory Session: This session focuses on scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
 
 **Application Examples**
 This folder contains five Jupyter Notebooks, to use Use Python to investigate real-world physics phenomena:
-
-    Analyze sunspot time-series data using the moving average.
-    Examine the relationship between light source illuminance and distance.
-    Create histograms to explore the oscillation period of a pendulum.
-    Simulate parabolic motion.
-    Visualize atmospheric CO2 data from online sources.
+Analyze sunspot time-series data using the moving average.
+Examine the relationship between light source illuminance and distance.
+Create histograms to explore the oscillation period of a pendulum.
+Simulate parabolic motion.
+Visualize atmospheric CO2 data from online sources.
 
 **Additional Techniques**
 Two Jupyter Notebooks to improve the skills on importing and manipulating data files across diverse platforms, including Jupyter Lab-Anaconda, Google Colab, and direct internet sources.
