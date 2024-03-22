@@ -14,6 +14,7 @@ Note: All files are provided with an English version, denoted by the suffix _EN.
 This folder contains four Jupyter Notebooks that introduce the fundamental lab computational concepts within the course:
 
 First Laboratory Session: Explore various Jupyter Notebook platforms and their setup procedures. Gain an understanding of basic calculations, text formatting, LaTeX usage, and simple plot creation.
+
 Second Laboratory Session: This session focuses on scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
 
 **Application Examples**
