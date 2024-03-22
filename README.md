@@ -18,6 +18,7 @@ First Laboratory Session: Explore various Jupyter Notebook platforms and their s
 Second Laboratory Session: This session focuses on scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
 
 **Application Examples**
+
 This folder contains five Jupyter Notebooks, to use Use Python to investigate real-world physics phenomena:
 
 Analyze sunspot time-series data using the moving average.
@@ -27,9 +28,11 @@ Simulate parabolic motion.
 Visualize atmospheric CO2 data from online sources.
 
 **Additional Techniques**
+
 Two Jupyter Notebooks to improve the skills on importing and manipulating data files across diverse platforms, including Jupyter Lab-Anaconda, Google Colab, and direct internet sources.
 
 **Exercises for the Second Semester**
+
 This folder contains exercises and data files used in the assessment at the beginning of the second semester.
 
 
