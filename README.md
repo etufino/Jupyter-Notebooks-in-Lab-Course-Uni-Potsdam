@@ -1,4 +1,4 @@
-This is a public repository of resources, designed and developed by Eugenio Tufino (Uni Trento, www.unitn.it) and Micol Alemani for the Physics Lab Course taught by Dr. Micol Alemani at University of Potsdam (www.physik.uni-potsdam.de/) in November 2022.
+This is a public repository of resources, designed and developed by Dr. Eugenio Tufino (Uni Trento, www.unitn.it) and Micol Alemani for the Physics Lab Course taught by Dr. Micol Alemani at University of Potsdam (www.physik.uni-potsdam.de/) in November 2022.
 
 
 **Python Data Analysis curriculum**
