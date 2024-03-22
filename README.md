@@ -17,6 +17,7 @@ Second Laboratory Session: This session focuses on scientific libraries, manipul
 
 **Application Examples**
 This folder contains five Jupyter Notebooks, to use Use Python to investigate real-world physics phenomena:
+
 Analyze sunspot time-series data using the moving average.
 Examine the relationship between light source illuminance and distance.
 Create histograms to explore the oscillation period of a pendulum.
