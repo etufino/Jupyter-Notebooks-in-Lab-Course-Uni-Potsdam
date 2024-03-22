@@ -2,22 +2,22 @@ This is a public repository of resources, designed and developed by Eugenio Tufi
 
 
 **Python Data Analysis curriculum**
+
 This curriculum has been integrated into the introductory laboratory course at the University of Potsdam, focusing on Python for data analysis.
 
 **Repository Structure**
-Note: Files are available in two languages: English (_EN) and German (DE).
+Note: All files are provided with an English version, denoted by the suffix _EN. Files available in German are marked with the _DE suffix.
 
 **Getting Started**
 
-This folder includes four Jupyter Notebooks that introduce the course's fundamental concepts:
+This folder contains four Jupyter Notebooks that introduce the fundamental lab computational concepts within the course:
 
     First Laboratory Session: Explore various Jupyter Notebook platforms and their setup procedures. Gain an understanding of basic calculations, text formatting, LaTeX usage, and simple plot creation.
 
-    Second Laboratory Session: Dive into scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
+    Second Laboratory Session: This session focuses on scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
 
 **Application Examples**
-(Five Jupyter Notebooks)
-Leverage Python to analyze real-world physics phenomena through five Jupyter Notebooks:
+This folder contains five Jupyter Notebooks, to use Use Python to investigate real-world physics phenomena:
 
     Analyze sunspot time-series data using the moving average.
     Examine the relationship between light source illuminance and distance.
@@ -29,7 +29,6 @@ Leverage Python to analyze real-world physics phenomena through five Jupyter Not
 Two Jupyter Notebooks to improve the skills on importing and manipulating data files across diverse platforms, including Jupyter Lab-Anaconda, Google Colab, and direct internet sources.
 
 **Exercises for the Second Semester**
-
 This folder contains exercises and data files used in the assessment at the beginning of the second semester.
 
 
