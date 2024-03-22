@@ -6,6 +6,7 @@ This is a public repository of resources, designed and developed by Dr. Eugenio 
 This curriculum has been integrated into the introductory laboratory course at the University of Potsdam, focusing on Python for data analysis.
 
 **Repository Structure**
+
 Note: All files are provided with an English version, denoted by the suffix _EN. Files available in German are marked with the _DE suffix.
 
 **Getting Started**
