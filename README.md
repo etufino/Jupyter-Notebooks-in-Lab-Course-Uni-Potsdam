@@ -9,7 +9,7 @@ This curriculum has been integrated into the introductory laboratory course at t
 
 Note: All files are provided with an English version, denoted by the suffix _EN. Files available in German are marked with the _DE suffix.
 
-**Getting Started**
+**Getting_Started**
 
 This folder contains four Jupyter Notebooks that introduce the fundamental lab computational concepts within the course:
 
@@ -17,7 +17,7 @@ First Laboratory Session: Explore various Jupyter Notebook platforms and their s
 
 Second Laboratory Session: This session focuses on scientific libraries, manipulate Pandas dataframes, conduct linear fits, and investigate statistical measures such as χ² and r². Introduction to creating histograms.
 
-**Application Examples**
+**Application_Examples**
 
 This folder contains five Jupyter Notebooks, to use Use Python to investigate real-world physics phenomena:
 
@@ -27,11 +27,11 @@ Create histograms to explore the oscillation period of a pendulum.
 Simulate parabolic motion.
 Visualize atmospheric CO2 data from online sources.
 
-**Additional Techniques**
+**Additional_Techniques**
 
 Two Jupyter Notebooks to improve the skills on importing and manipulating data files across diverse platforms, including Jupyter Lab-Anaconda, Google Colab, and direct internet sources.
 
-**Exercises for the Second Semester**
+**Exercises_Start_Second_Semester**
 
 This folder contains exercises and data files used in the assessment at the beginning of the second semester.
 
