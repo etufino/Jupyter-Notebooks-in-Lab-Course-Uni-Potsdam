@@ -1,6 +1,6 @@
 This is a public repository of resources, designed and developed by Dr. Eugenio Tufino (Uni Trento, www.unitn.it) and Micol Alemani for the Physics Lab Course taught by Dr. Micol Alemani at University of Potsdam (www.physik.uni-potsdam.de/) in November 2022.
 
-**Reference**: E Tufino, S Oss, M Alemani , Integrating Python data analysis in an existing introductory laboratory course, European Journal of Physics, 2023, https://iopscience.iop.org/article/10.1088/1361-6404/ad4fcc/meta
+**Reference**: E Tufino, S Oss and M Alemani , Integrating Python data analysis in an existing introductory laboratory course, European Journal of Physics, 2023, https://iopscience.iop.org/article/10.1088/1361-6404/ad4fcc/meta
 
 **Python Data Analysis curriculum**
 
